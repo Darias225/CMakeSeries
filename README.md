@@ -1,2 +1,0 @@
-# CMakeSeries
-Youtube series
